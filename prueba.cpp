@@ -10,3 +10,6 @@ int main() {
 
     return 0;
 }
+
+
+// Para compilar: g++ -o prueba prueba.cpp
