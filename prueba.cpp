@@ -12,4 +12,5 @@ int main() {
 }
 
 
-// Para compilar: g++ -o prueba prueba.cpp
+// Para compilar: g++ -o prueba prueba.cpp 
+// prueba
